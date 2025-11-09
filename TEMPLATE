@@ -1,0 +1,22 @@
+##  **Problem Statement**
+
+In recent years, the widespread use of social media platforms such as Facebook, Instagram, TikTok, and YouTube has dramatically transformed how individuals connect, communicate, and consume information. However, this increased digital engagement has raised growing concerns about its potential effects on mental health.
+
+Despite its benefits in fostering communication and self-expression, prolonged use of social media has been linked to issues such as **stress, anxiety, poor sleep quality, and reduced happiness levels**. Many users, especially young adults, spend excessive time online, often at the expense of exercise, rest, and real-world social interactions.
+
+The problem this project seeks to address is the **impact of social media usage on key aspects of mental health**, including:
+
+* Sleep quality
+* Stress levels
+* Happiness and emotional well-being
+* Lifestyle habits (exercise, screen time, etc.)
+
+The goal is to **analyze and visualize** how variables such as daily screen time, exercise frequency, and platform choice influence mental health indicators like stress, sleep, and happiness.
+
+By uncovering patterns and correlations, this study aims to provide insights that can help individuals, mental health professionals, and policymakers promote **healthier social media habits** and better mental wellness outcomes.
+   TOOLS USED
+Microsoft Excel
+    Objectives
+To analyze the relationship between social media usage patterns and mental health indicators among users, focusing on how screen time, platform choice, and lifestyle habits influence emotional well-being.
+    Data Source
+Kaggle
